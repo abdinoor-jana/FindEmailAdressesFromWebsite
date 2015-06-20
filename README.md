@@ -1,5 +1,7 @@
 Dependencies:
+
 Selenium (sudo pip install selenium)
+
 Need to install FirFow broswer
 
 find_email_addresses.py will open a FireFox browser to load all the initialtion javascript to be finished
