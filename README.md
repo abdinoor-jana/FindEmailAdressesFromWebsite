@@ -9,7 +9,10 @@ It will find email address from all the hyperlink that has the same domain with 
 Also, it will click all the clickable compenents on the html to discover possible redirection and check email from there.
 
 Useage emaple:
-python find_email_addresses.py jana.com\n
+python find_email_addresses.py jana.com                                                                                         
+
 python find_email_addresses.py jana.com/contact
+
 python find_email_addresses.py getflyp.com
+
 python find_email_addresses.py getflyp.com/contact
